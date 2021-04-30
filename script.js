@@ -137,10 +137,7 @@ document.getElementById("save").addEventListener("mousedown", function(){
       // }
     };  
   }, 500)
-})
-image.addEventListener("mousedown", (e) =>{
-  drawImage()
-})
+})  
 
 /////////////////////
 /*props*/
